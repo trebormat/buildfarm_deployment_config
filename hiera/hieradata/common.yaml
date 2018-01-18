@@ -8,7 +8,7 @@ jenkins::slave::ui_pass: 'changeme'
 # This should be unchanged so that the masterurl always uses the hosts entry to reach master.
 jenkins::slave::masterurl: 'http://master:8080'
 
-master::ip: 172.30.1.145
+master::ip: 172.30.1.175
 repo::ip: 172.30.1.69
 
 # SSH keys to be added to the system.
